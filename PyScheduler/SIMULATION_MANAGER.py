@@ -39,6 +39,7 @@ from TRAFFIC_MODEL import PacketManager, SimpleGenerator, QCI
 from UE_MODULE import UECollection
 from MOBILITY_MODEL import MapBorders
 from tqdm import tqdm
+from ISimulationManager import ISimulationManager
 
 # ==============================================================================
 #                          ОБРАБОТЧИК СТАТИСТИКИ
