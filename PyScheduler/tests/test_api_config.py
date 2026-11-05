@@ -9,7 +9,7 @@ tests/test_api_config.py — валидация конфигов API_MODULE.
 
 Запуск:
     cd PyScheduler
-    pytest tests/test_api_config.py -v
+    python -m pytest tests/test_api_config.py -v
 """
 
 import pytest
